@@ -1,6 +1,6 @@
 # Facebook Post Classification App
 
-This project is a web application for classifying Facebook posts using two different models: **BiLSTM+CNN** (build from scratch with phoW2V embeddings) and **PhoBERT** (fine-tuned for Vietnamese). The app supports both single post classification and batch processing via CSV files.
+This project is a web application for classifying Facebook posts using two different models: **BiLSTM+CNN** (build from scratch with phoW2V embeddings) and **PhoBERT** (fine-tuned for Vietnamese). The app supports both single post classification and batch processing via CSV files. The user interface is implemented using **Gradio**.
 
 ## Features
 
@@ -45,7 +45,6 @@ You can also run the app using Docker:
 docker build -t post-classification-app .
 docker run -p 8080:8080 post-classification-app
 ```
-
 
 ## Usage
 
