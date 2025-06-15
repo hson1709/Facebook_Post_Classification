@@ -1,6 +1,6 @@
 # Facebook Post Classification App
 
-This project is a web application for classifying Facebook posts using two different models: **BiLSTM+CNN** (with phoW2V embeddings) and **PhoBERT** (fine-tuned for Vietnamese). The app supports both single post classification and batch processing via CSV files.
+This project is a web application for classifying Facebook posts using two different models: **BiLSTM+CNN** (build from scratch with phoW2V embeddings) and **PhoBERT** (fine-tuned for Vietnamese). The app supports both single post classification and batch processing via CSV files.
 
 ## Features
 
@@ -27,17 +27,7 @@ cd post-classification
 pip install -r requirements.txt
 ```
 
-### 3. Download NLTK Data
-
-The app requires NLTK's `punkt` and `punkt_tab` resources. They will be downloaded automatically, but you can also download them manually:
-
-```python
-import nltk
-nltk.download('punkt')
-nltk.download('punkt_tab')
-```
-
-### 4. Run the application
+### 3. Run the application
 
 ```bash
 python app.py
