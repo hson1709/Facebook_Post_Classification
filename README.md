@@ -1,5 +1,8 @@
 # Facebook Post Classification App
 
+![image](https://github.com/hson1709/Facebook_Post_Classification/blob/main/Single%20post.png)
+![image](https://github.com/hson1709/Facebook_Post_Classification/blob/main/Batch%20processing.png)
+
 This project is a web application for classifying Facebook posts using two different models: **BiLSTM+CNN** (build from scratch with phoW2V embeddings) and **PhoBERT** (fine-tuned for Vietnamese). The app supports both single post classification and batch processing via CSV files.
 
 ## Features
