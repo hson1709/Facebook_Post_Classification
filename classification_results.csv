@@ -1,0 +1,13 @@
+id,text,predicted_label,confidence,confidence_percent
+1,"Hè này đi đâu chơi nhỉ? Mình đang phân vân giữa Đà Lạt và Phú Quốc, bạn nào đi rồi cho mình xin review với!",Du lịch,0.9906978011131287,99.07%
+2,Mẹo nhỏ giúp bạn uống đủ nước mỗi ngày: Đặt báo thức nhắc nhở mỗi 2 tiếng. Cơ thể sẽ cảm ơn bạn đấy!,Sức khoẻ và bệnh tật,0.8736089468002319,87.36%
+3,"iOS 18 ra mắt với hàng loạt tính năng AI mới, đặc biệt là khả năng tùy chỉnh Siri thông minh hơn bao giờ hết!",Mua sắm,0.971816897392273,97.18%
+4,Hôm nay con trai được 9 điểm Toán! Cảm ơn cô giáo đã kiên nhẫn dạy bé từng chút một,Giáo dục,0.9818521738052368,98.19%
+5,Đừng bỏ lỡ liveshow đặc biệt của Mỹ Tâm vào cuối tuần này tại TP.HCM! Ai đi giơ tay,Nghệ thuật,0.5147303342819214,51.47%
+6,Bạn có biết: Một ly cà phê đen không đường vào buổi sáng giúp tăng khả năng tập trung và đốt mỡ tốt hơn?,Đồ ăn và đồ uống,0.6223185062408447,62.23%
+7,"Kinh nghiệm xin học bổng toàn phần du học Mỹ: Chuẩn bị hồ sơ sớm, luyện viết essay thật kỹ!",Giáo dục,0.5216422080993652,52.16%
+8,Trời mưa thế này chỉ muốn ở nhà cuộn chăn xem phim Hàn Quốc. Có ai giống mình không?,Con người và xã hội,0.47366243600845337,47.37%
+9,Vừa thử món phở trộn ở phố Huế – thật sự đỉnh của chóp! Nên thử nếu bạn là fan phở nha,Đồ ăn và đồ uống,0.9955446124076843,99.55%
+10,Startup Việt vừa gọi vốn thành công 2 triệu USD với ý tưởng kết nối nông dân và người tiêu dùng qua app!,Kinh doanh và công nghiệp,0.9145839810371399,91.46%
+11,Cuối tuần này bạn đã có kế hoạch gì chưa? Hãy thử phượt Đà Lạt để tận hưởng không khí mát lạnh nhé!,Du lịch,0.9905444383621216,99.05%
+12,Tập thể dục buổi sáng giúp cải thiện tâm trạng và tăng năng suất làm việc suốt cả ngày.,Làm đẹp và thể hình,0.9446820020675659,94.47%

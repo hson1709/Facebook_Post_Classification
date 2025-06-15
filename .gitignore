@@ -1,0 +1,5 @@
+word2vec_vi_words_300dims.txt
+word2vec_vi_words_300dims.txt.kv
+word2vec_vi_words_300dims.txt.kv.vectors.npy
+BiLSTMwithCNN.pth
+phobert_classifier.pth
